@@ -76,10 +76,57 @@ It was recently proposed that ecologists should shift their focus from the α-di
 
 \
 
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_1.1.png?raw=true)
 
 
-![](https://github.com/HMB3/Election_dashboards/blob/main/graphs/Noms_graph.png?raw=true)
+Figure 1.1 Classic plot-scale B-EF experiments (a) suggest that ecosystem functions (e.g. productivity, biomass production and nutrient cycling) increase monotonically with biological richness [i.e. α-diversity, see Cardinale et al. (2012)]. These controlled experiments remove the biological interactions between locations that would occur in natural environments by fencing off plots [b, reproduced from Mokany et al. (2013b)], thus negating the potential effect of biological turnover on ecosystem functions (Regional EF). Compositional differences between interacting communities (c) enable new species with different physiological responses (e.g. fire response functional traits such as seeding or sprouting in the Australian context) to disperse between communities as environmental conditions change. This temporal turnover in community composition is likely to be strongly influenced by the initial spatial β-diversity of the metacommunity in which each community resides. Thus empirical analyses across broad spatio-temporal and biological scales could account for the important within (blue arrows) and between (red arrows) biological turnover between communities, which may influence ecosystem functions (EF) at both local and regional scales. 
+
+\
+
+
+The concept of ecological specialisation provides the theoretical link between ecosystem functions and biological turnover. Regions exhibiting high biological turnover between locations, for example tropical rainforests, are characterised by greater biological heterogeneity than regions exhibiting low biological turnover, such as boreal forests. This heterogeneity means that many plants occur in narrow portions of geographic and environmental space. Indeed some plants may be known to occur only in small parts of a particular region, making them endemic to that region. Endemic taxa can become highly specialised — physiologically, and thus ecologically — to current environmental conditions though adaptive evolutionary processes. Consequently, these narrowly distributed taxa may perform processes such as photosynthesis more optimally at the centre of their environmental distribution than taxa which are distributed across the whole landscape. Put another way, if every kind of plant occurred everywhere across a tropical rainforest, there would be no biological turnover in environmental space. All locations within the forest would then be populated by plants with generalised physiological attributes, and the landscape would be rendered biologically homogenous. Throughout this thesis I am asking the general question: would we expect the productivity at each location within a landscape to be higher or lower if the landscape was biologically heterogeneous, rather than homogenous? 
+In the conceptual framework outlined above, it is the degree of ecological specialisation — both at individual locations, and across regions — that can directly affect ecosystem functions, rather than the biological turnover itself (which is simply an indirect proxy of specialisation and the biogeographic processes that have formed it). For this research, I define the ecological specialisation of an individual plant species as its realised environmental niche (Austin et al., 1990) — for example the range of rainfall and temperature conditions across all geographic locations where a tropical tree species has been recorded. I further define ecological specialisation with regard to an individual location, or site, as the median of the realised environmental niches for all species present at that site. Hence the crucial information for calculating measures of ecological specialisation is location data, derived from ecological surveys recording what plants occur where, which can be linked to ecosystem functions and environmental conditions. Recent theoretical, experimental and empirical analyses have demonstrated links between ecosystem functions and measures of biological turnover as proxies of ecological specialisation (Pasari et al., 2013; Wang & Loreau, 2014; Van Der Plas et al., 2016). However, these relationships have not as yet been demonstrated across broad spatial, biological and environmental scales in real ecosystems. Addressing the interrelationships between ecosystem functions, environmental conditions and species’ environmental distributions outlined above, this research tests three components of the relationship between gross primary productivity (GPP) and ecological specialisation:
+
+\
+
+1) Is GPP related to floristic β-diversity in geographic space across continental environmental gradients?
+2) Does the ecological specialisation of individual species vary systematically across continental environmental gradients?
+3) Is the GPP of individual sites related to the ecological specialisation of the species which occur at those sites?
+
+\
+
+There are two key analytical avenues by which these questions could be tested. Firstly, by empirical means, using measurements for GPP, environmental conditions and ecological specialisation; and secondly, by simulating these variables and their interrelationships. Here I argue that B-EF relationships can only be useful for broad-scale land management — a key justification in the literature — if links between ecosystem functions and biodiversity can be demonstrated in nature. Thus I focus on testing these questions empirically, across the broadest possible spatial, temporal and biological scales. The following Chapter (Chapter 2) outlines a broader problem space than the questions given above: that of empirically testing current and future relationships between ecosystem functions and ecological specialisation. The remainder of this Chapter describes the geographic and biological scope of the thesis, concluding with an outline of the thesis structure. 
+
+\
+
+## Geographic and biological scope of the thesis
+
+\
+
+The analyses in this thesis were conducted using geographic distribution records for vascular plant species which occur within the Australian continent. The geographic species records for Australian plants are among the best in the Atlas of Living Australia (www.ala.org.au), which is the Australian node of the Global Biodiversity Information Facility (GBIF, www.gbif.org). Thus Australia represents an ideal case study for testing empirical relationships between primary productivity and ecological specialisation. Nonetheless, it is important to note that some of the taxa that occur within Australia are also distributed more widely across South East Asia and the Pacific. Unfortunately, the spatial density of the geographic species records in other countries is lower than the records from within Australia. Given the importance of accurate ‘what and where’ data to testing the research questions, I have only analysed the environmental distributions of plants within the Australian continent.
+
+\
+
+The Australian vascular flora constitutes a highly diverse mixture of approximately 20,000 vascular plant species (Orchard, 1999). The flora are derived from two main sources: those considered to have evolved on the Gondwanan land mass (for example plants in the genera Eucalyptus and Banksia), and those thought to have arrived in the last 33 million years (Crayn et al., 2015) via dispersal from South East Asia (for example palms in the genus Livistona). Australia’s Gondwanan ancestry, combined with its geological isolation since separating from Antarctica — and the subsequent evolution of its climate and soils during this period of isolation — have shaped the character of Australian plants and their geographic and environmental distributions (Crisp & Cook, 2013).
+
+\
+
+After the Australian landmass separated from Antarctica approximately 38 million years ago, it drifted northward towards the equator, creating a drier, more seasonal climate, compared with the wetter conditions that prevailed in Australia prior to separation (White, 1994; Crayn et al., 2015). With increasing proximity to Asia, monsoonal conditions arose in northern Australia. The prolonged seasonal drying that accompanied the monsoon fostered the adaptive radiation of sclerophyllous, fire-adapted taxa which dominate contemporary plant habitats across large areas of arid and tropical Australia [Crisp et al. (2011); Crisp and Cook (2013); Pfautsch et al. (2016), Figure 1.2 a]. Thus most species which originated on the Australian tectonic plate have adapted to dry, fire-prone conditions over tens of millions of years. However, some species have become geographically restricted to the remaining moister environments in coastal and upland areas created by Australia’s drift into tropical latitudes. 
+
+\
+
+The biogeographic forces that have shaped the Australian flora outlined above are encapsulated within the Wet Tropics region of North Queensland (Figure 1.2 c), which contains a diverse admixture of plants of Gondwanan and Asian origins (Barlow & Hyland, 1988; Metcalfe & Ford, 2009). The Wet Tropics is characterised not only by high taxonomic α- and β-diversity, but also by a high proportion of narrowly distributed endemic species relative to the rest of Australia (Crisp et al., 2001; Laffan & Crisp, 2003; González-Orozco et al., 2011; Crisp & Cook, 2013). Indeed only the Southwest Australian Floristic region has higher endemism than the Wet Tropics (Hopper & Gioia, 2004), with both regions being global biodiversity hotspots (Williams et al., 2011). Because endemic species necessarily occupy narrow portions of geographic and environmental space, a high proportion of Wet Tropics species could be considered ecologically and physiologically specialised — making it an ideal bioregion for analysing the relationship between primary productivity and specialisation.
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_1.2.png?raw=true)
 
 
 
+Figure 1.2 Broad biogeographic patterns across continental Australia form the context for the statistical relationships analysed in this thesis. Australia’s floristic biomes [a, reproduced from Crisp and Cook (2013)], and patterns of species richness in 20 km × 20 km grid cells for the Wet Tropics taxa analysed (b, c). Contemporary continental patterns of mean monthly primary productivity (d, g C m-2 month-1 2001-2012) and mean annual rainfall (e, mm, 2001-2012). 
 
+\
+
+Three broad taxonomic subsets were used to test the research questions. The first question — is GPP related to species turnover in geographic space? — was tested using geographic presence-only records for approximately 12,500 vascular plant species across continental Australia from the Australian National Heritage Assessment Tool database [ANHAT, see Williams et al. (2012)]. The second question — does ecological specialisation vary across continental environmental gradients? — was tested using geographic presence-only records for 4292 vascular plant species known to occur in the Australian Wet Tropics Bioregion. The third question — is GPP related to ecological specialisation? — was tested using 948 tree species known to occur in the Wet Tropics. These taxonomic subsets encompass sufficient biological, geographic and environmental space to allow plausible empirical tests of the research questions. 
+
+\

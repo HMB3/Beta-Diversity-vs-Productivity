@@ -1,1 +1,29 @@
-# A caucus-race and a long tale
+# Discussion
+
+## Continental primary productivity and geographic beta diversity 
+
+The continental analyses described in Chapter 3 demonstrated that both the magnitude and variability of primary productivity were weakly related to the taxonomic β-diversity of vascular plants in the Australian context, with no clear form to either relationship (Figure 6.1). Furthermore, adding β-diversity to simple environmental models of primary productivity contributed no meaningful improvement in model fit or explanatory power. Recent theoretical and experimental studies have argued that the loss of β-diversity could increase the variability and decrease the magnitude of ecosystem functions at regional scales (Pasari et al., 2013; Wang & Loreau, 2014; Wang & Loreau, 2016). Similarly, a recent empirical analysis of forest plots demonstrated that the magnitudes of multiple combined ecosystem functions — measured from boreal to Mediterranean ecosystems — had consistently positive relationships with the taxonomic β-diversity between plots (Van Der Plas et al., 2016). Here I reiterate that my analyses have only one response variable, GPP, rather than several as in many B-EF studies [e.g. Pasari et al. (2013); Van Der Plas et al. (2016)]. 
+
+\
+
+Nonetheless, contrary to these empirical findings, and counter to the expectations of Pasari et al. (2013) and Turnbull et al. (2016), we demonstrated that considering more realistic, broad-scale environmental and biological gradients in real ecosystems did not increase the strength of relationships between primary productivity and taxonomic floristic β-diversity. 
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_1.1.png?raw=true)
+
+Figure 6.1. Summary of the key results for Chapter 3. Example of a random subsample of cells or “communities” (a), generated with the same methods as that described in Chapter 3, section 3.2 (approximately 1000 cells). These subsampled cells must contain more than 10 species, have more than 10 locations within a 10km radius, and a reasonable probability that α-diversity was well sampled (see section 3.2.2). Plots of GPP vs. β-diversity for one the continental generalised additive models from Chapter 3 (b), showing raw observations for one random subsample (blue points, n = 1000 across continental Australia). GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1), GPP CV is the ratio of the standard deviation in GPP to the mean.
+
+\
+
+The weak relationships observed in Chapter 3 may be based on the logic that the macroecological complementarity mechanism only manifests in locations with a low degree of ecological specialisation. If this principle holds, the taxonomic turnover between most of the grid cells used in Chapter 3 (e.g. Figure 6.1) would have been high enough to negate any effects of changes in β-diversity on productivity. It is possible that stronger relationships between productivity and β-diversity could arise at finer spatial resolutions than 1 km × 1 km, at scales where increasing biological turnover may not be functionally redundant (Poorter et al., 2015). However, as outlined in Chapters 1 and 3, biological turnover in geographic space is only an indirect proxy of ecological specialisation (Burley et al., 2016a) — and based on the evidence in Chapter 3, a fairly weak proxy at that. 
+
+\
+
+These continental results may also have implications for predictions that biological homogenization may decrease ecosystem functioning in natural systems across broad scales, as recently argued by Van Der Plas et al. (2016). If biological ‘saturation’ occurs at macroecological scales across real ecosystems — whereby additional biological richness and heterogeneity are redundant — the significant relationships found in experimental analyses are unlikely to be borne out at macroecological scales. This logic may find anecdotal support in global bioregions were high levels of biological heterogeneity are associated with relatively low levels of productivity, among other ecosystem functions (for example the globally significant hotspot of plant diversity in southwestern Australia). Ultimately, it is reasonable to conclude from Chapter 3 that macro-scale measures of both productivity and taxonomic diversity may be better suited as response variables (on the y-axes), responding to many of the same environmental conditions — as suggested by Lavers and Field (2006). 
+
+\
+
+From a methodological perspective, the effect of the concurrent declines in rainfall, productivity, α-diversity and sampling intensity with increasing distance from the Australian coastline on these analyses must also be considered. Indeed the reliance on observational plant records in Chapter 3 has undoubtedly biased the results towards the wettest, most productive and most species rich areas (see Appendix 2, Figure 6.1). Although a seemingly mundane point, it is worth emphasising the need for more high quality plot data to be measured in the greatest possible range of ecosystems, both across Australia and around the world. Questions about broad-scale interrelationships between ecosystem functions, environmental conditions and measures of biological diversity and ecological specialisation cannot be answered decisively without more reliable, widespread knowledge about which plants occur in particular ecosystems. Unsurprisingly, this fundamental information is still lacking for the more remote regions of many continents such as Australia, making it difficult to evaluate the practical relevance of B-EF arguments for continental-scale conservation and management initiatives.
+
+\

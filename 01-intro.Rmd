@@ -16,16 +16,16 @@ Before defining ecological specialisation, the broader concept of biological div
 
 \
 
-1). α-diversity: the count, or richness, of biological types at a particular location. For example the total number of species, genera or families recorded at an ecological survey plot of <1ha in a tropical rainforest.
+**1).** α-diversity: the count, or richness, of biological types at a particular location. For example the total number of species, genera or families recorded at an ecological survey plot of <1ha in a tropical rainforest.
 
 \
 
 
-2). β-diversity: the change in biological identity, or turnover, between two or more locations within a broader region. For example the turnover of plant genera between a pair of ecological survey plots in a tract of tropical rainforest, ranging from 0 (no biological turnover, all taxa shared) to 1 (complete turnover, no taxa shared). β-diversity can thus be used to approximate the degree of biological heterogeneity within a region.
+**2).** β-diversity: the change in biological identity, or turnover, between two or more locations within a broader region. For example the turnover of plant genera between a pair of ecological survey plots in a tract of tropical rainforest, ranging from 0 (no biological turnover, all taxa shared) to 1 (complete turnover, no taxa shared). β-diversity can thus be used to approximate the degree of biological heterogeneity within a region.
 
 \
 
-3). γ-diversity: the total number of biological types in a region. For example the total number of plant genera known to occur in a tract of tropical rainforest derived from the aggregate of many ecological survey plots. 
+**3).** γ-diversity: the total number of biological types in a region. For example the total number of plant genera known to occur in a tract of tropical rainforest derived from the aggregate of many ecological survey plots. 
 
 \
 
@@ -34,7 +34,8 @@ These definitions are not absolute. Indeed they are challenged by fundamental qu
 
 \
 
-“Biological diversity means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems." (Secretariat of the Convention on Biological Diversity, 2005), p. 4. 
+*“Biological diversity means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems."* 
+(Secretariat of the Convention on Biological Diversity, 2005), p. 4. 
 
 \
 
@@ -42,7 +43,7 @@ Within this framework, the concept of linking biological identity to place is at
 
 \
 
-“The more diversified the descendants from any one species become in structure, constitution and habits, by so much will they be better enabled to seize on many and widely diversified places in the polity of nature.It has been experimentally proved, that if a plot of ground be sown with one species of grass, and a similar plot be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised.” (Darwin, 1859) p. 93.
+*“The more diversified the descendants from any one species become in structure, constitution and habits, by so much will they be better enabled to seize on many and widely diversified places in the polity of nature.It has been experimentally proved, that if a plot of ground be sown with one species of grass, and a similar plot be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised.”* (Darwin, 1859) p. 93.
 
 \
 
@@ -85,13 +86,19 @@ Figure 1.1 Classic plot-scale B-EF experiments (a) suggest that ecosystem functi
 
 
 The concept of ecological specialisation provides the theoretical link between ecosystem functions and biological turnover. Regions exhibiting high biological turnover between locations, for example tropical rainforests, are characterised by greater biological heterogeneity than regions exhibiting low biological turnover, such as boreal forests. This heterogeneity means that many plants occur in narrow portions of geographic and environmental space. Indeed some plants may be known to occur only in small parts of a particular region, making them endemic to that region. Endemic taxa can become highly specialised — physiologically, and thus ecologically — to current environmental conditions though adaptive evolutionary processes. Consequently, these narrowly distributed taxa may perform processes such as photosynthesis more optimally at the centre of their environmental distribution than taxa which are distributed across the whole landscape. Put another way, if every kind of plant occurred everywhere across a tropical rainforest, there would be no biological turnover in environmental space. All locations within the forest would then be populated by plants with generalised physiological attributes, and the landscape would be rendered biologically homogenous. Throughout this thesis I am asking the general question: would we expect the productivity at each location within a landscape to be higher or lower if the landscape was biologically heterogeneous, rather than homogenous? 
+
+\
+
 In the conceptual framework outlined above, it is the degree of ecological specialisation — both at individual locations, and across regions — that can directly affect ecosystem functions, rather than the biological turnover itself (which is simply an indirect proxy of specialisation and the biogeographic processes that have formed it). For this research, I define the ecological specialisation of an individual plant species as its realised environmental niche (Austin et al., 1990) — for example the range of rainfall and temperature conditions across all geographic locations where a tropical tree species has been recorded. I further define ecological specialisation with regard to an individual location, or site, as the median of the realised environmental niches for all species present at that site. Hence the crucial information for calculating measures of ecological specialisation is location data, derived from ecological surveys recording what plants occur where, which can be linked to ecosystem functions and environmental conditions. Recent theoretical, experimental and empirical analyses have demonstrated links between ecosystem functions and measures of biological turnover as proxies of ecological specialisation (Pasari et al., 2013; Wang & Loreau, 2014; Van Der Plas et al., 2016). However, these relationships have not as yet been demonstrated across broad spatial, biological and environmental scales in real ecosystems. Addressing the interrelationships between ecosystem functions, environmental conditions and species’ environmental distributions outlined above, this research tests three components of the relationship between gross primary productivity (GPP) and ecological specialisation:
 
 \
 
-1) Is GPP related to floristic β-diversity in geographic space across continental environmental gradients?
-2) Does the ecological specialisation of individual species vary systematically across continental environmental gradients?
-3) Is the GPP of individual sites related to the ecological specialisation of the species which occur at those sites?
+**1)** Is GPP related to floristic β-diversity in geographic space across continental environmental gradients?
+
+**2)** Does the ecological specialisation of individual species vary systematically across continental environmental gradients?
+
+
+**3)** Is the GPP of individual sites related to the ecological specialisation of the species which occur at those sites?
 
 \
 

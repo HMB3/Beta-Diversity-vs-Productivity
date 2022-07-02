@@ -1,2 +1,85 @@
-# The pool of tears
+# Introduction
+
+\
+
+## Historical context and aims 
+
+The aim of this thesis is to test empirical relationships between gross primary productivity and plant ecological specialisation across broad spatial, temporal and biological scales. Two measures of ecological specialisation are used: the change in the identity of plant species between locations, and the aggregated environmental distributions of all plant species occurring at a location. Additionally, this thesis examines how individual environmental distributions of Australia’s tropical flora — their realised environmental niches — vary across continental environmental gradients, as a proxy of how specialised each plant species has become to local conditions.
+
+\
+
+The concept of ‘scale’ is central to all ecological and biogeographical theories, and has several components — notably the extent and resolution of analysis. And so it is necessary to define at the outset how scale is used in this thesis. I use the terms broad-scale and macroecological to refer to ecological analyses using data for the largest possible suite of taxa (for example the Australian flora, thus constituting a broad biological extent), across the broadest possible geographic extents (for example continental Australia). This is distinct from the resolution component of scale, for which I also use the term fine-scale to denote the finest possible spatial resolution (for example grid cells of 1 km × 1 km). 
+
+\
+
+Before defining ecological specialisation, the broader concept of biological diversity warrants consideration, given the intrinsic historical and thematic links between all concepts of biological rarity and specialisation. Initially, it is important to emphasise that the study of the multitude of organisms with which we share the planet has a long history, across all cultures. From a formal scientific perspective, the rest of life on earth came to be known as biological diversity or biodiversity in the latter part of the 20th century (Faith, 2008), a term most directly attributed to the American biologists E.O. Wilson (Wilson, 1988) and Tomas Lovejoy (Lovejoy, 1980).   The deceptively simple fact that there is such a variety of different kinds of organisms on earth today, and that their individual and collective distributions vary with such complexity across space and time, poses a fundamental, if not rhetorical, question: what factors drive diversity? The classic ecological definition of biodiversity was devised by the American ecologist Robert Whittaker (1960), and attempts to capture the variety of life by partitioning diversity into three components:
+
+\
+
+1). α-diversity: the count, or richness, of biological types at a particular location. For example the total number of species, genera or families recorded at an ecological survey plot of <1ha in a tropical rainforest.
+
+\
+
+
+2). β-diversity: the change in biological identity, or turnover, between two or more locations within a broader region. For example the turnover of plant genera between a pair of ecological survey plots in a tract of tropical rainforest, ranging from 0 (no biological turnover, all taxa shared) to 1 (complete turnover, no taxa shared). β-diversity can thus be used to approximate the degree of biological heterogeneity within a region.
+
+\
+
+3). γ-diversity: the total number of biological types in a region. For example the total number of plant genera known to occur in a tract of tropical rainforest derived from the aggregate of many ecological survey plots. 
+
+\
+
+
+These definitions are not absolute. Indeed they are challenged by fundamental questions about the often unexamined philosophical underpinnings of taxonomic classification itself. Despite the inherent limitations of such definitions, and regardless of the particular definition of biodiversity adopted, the core concept uniting them is that of biological variety (IUCN, 1980). This viewpoint is neatly captured by Faith (2016), who described biodiversity as the “living variation” at multiple levels of biological organisation, counted for a set of objects (for example the turnover in species, phenotypes and genotypes between forest plots). This clarifies ‘variability’ as meaning ‘variety’ with regard to the definition of biodiversity adopted by countries around the world as signatories to the Convention on Biological Diversity (CBD): 
+
+\
+
+“Biological diversity means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems." (Secretariat of the Convention on Biological Diversity, 2005), p. 4. 
+
+\
+
+Within this framework, the concept of linking biological identity to place is at the core of defining biodiversity, as well as underpinning all attempts to explain the variety of life and processes that drive evolution, such as the dynamics of environmental conditions. The last 30 years have seen a subtle yet important shift of research focus in the ecological branch of the life sciences, from one of explaining the causes of biodiversity, to examining consequences. This change in focus has been motivated by another fundamental question: does diversity matter? The search for the consequences of biodiversity goes back to at least the writings of Charles Darwin, and probably much earlier. In Chapter IV of The Origin of Species (which outlines the mechanics of Natural Selection), Darwin discusses the relationship between photosynthetic activity and plant diversity, as yet another illustration of the principle of character divergence:
+
+\
+
+“The more diversified the descendants from any one species become in structure, constitution and habits, by so much will they be better enabled to seize on many and widely diversified places in the polity of nature.It has been experimentally proved, that if a plot of ground be sown with one species of grass, and a similar plot be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised.” (Darwin, 1859) p. 93.
+
+\
+
+Darwin was speaking here of the taxonomic α-diversity of each respective plot — and by his use of genera, he was also invoking the phylogenetic relationships between the plants (before the genetic basis of natural selection had been revealed, of course). As Darwin hints, the ecological concept that locations in anthropogenic or natural landscapes with greater plant diversity should display greater photosynthetic capacity is longstanding, presumably from many generations of horticultural experimentation. In contemporary ecology, this concept has come to be known as the principle of biological complementarity (Grime, 1998). The core idea is that greater biological richness at a location (i.e. α-diversity) reflects a greater variety of resource acquisition strategies, which in turn should facilitate higher plant photosynthetic activity, and ultimately greater biomass production. By invoking the ecological niche, complementarity harks back to the principle of character divergence as discussed by Darwin, with important consequences for studying fluctuations in plant ecological processes across broad scales. 
+
+\
+
+
+One of the most important plant ecological processes on earth is primary productivity — the rate at which plants assimilate carbon from the atmosphere through photosynthesis. This thesis focuses solely on gross primary productivity, or GPP, which can be defined as the spatio-temporal photosynthetic flux of carbon between the vegetation and the atmosphere (Donohue et al., 2014). GPP is thus a biophysical parameter, summarising the photosynthetic activity of a suite of plants at a particular location. It will be shaped not only by the collective attributes of plants at each location, but potentially by plants in the surrounding region, depending on the spatial, temporal and biological scales under investigation.
+
+\
+
+
+Gross Primary Productivity (GPP) is but one of many ecosystem functions, a broader ecological concept defined by Ghilarov (2000) as “Stocks or fluxes of matter and energy derived from biological activity”. In this framework, the “dry herbage” referred to by Darwin is the stock (i.e. the biomass), and GPP is the flux. The ecosystem function concept is more ambiguous and value laden than variables such as GPP and rainfall, because the use of the word ‘function’ implies utility, attaching a somewhat anthropogenic connotation to plant-mediated processes (for example carbon, water and nutrient cycles, or fire regimes). The key to the ecosystem function concept is that it switches biological diversity from the response to the explanatory axis, as a predictor variable used to explain ecosystem functions such as productivity. In reality, measures of productivity, environmental conditions and biological diversity are interrelated at multiple spatio-temporal scales. These interrelationships are illustrated by the fact that different measures of biological diversity and primary productivity have been used as both response and explanatory variables over several decades of research, often amid considerable controversy [e.g. Grime (1973); Mittelbach et al. (2001); Lavers and Field (2006); Grace et al. (2014)]. 
+
+\
+
+The impetus to switch measures of biological diversity from the response to the explanatory axis was born of conservation movements in Europe and North America in the latter part of the 20th century. The conservation logic behind this transposition of axes is relatively straightforward. In order to preserve the ecosystem functions at a location — for example primary productivity — it is argued that the entire suite of biological taxa occurring there must be preserved (the α-diversity), not simply the dominant species that may drive productivity (for example large trees in a tropical rainforest). The supposedly causal relationship between ecosystem functions (response variables) and biodiversity (predictor variables, referred to throughout this thesis as B-EF research) has been most directly attributed to the work of the American ecologist David Tilman and his colleagues, beginning with a series of field experiments at Cedar Creek in Minnesota (Tilman, 1982). The original B-EF research dates back to at least the early 1980s, although the first peer-reviewed publications in prominent scientific journals appeared later [e.g. Tilman and Downing (1994)]. The B-EF concept has proliferated in the literature in the years since [e.g. see Cardinale et al. (2012) for a recent review], with thousands of publications on this general topic since 1990. 
+
+\
+
+The typical B-EF experiments test the complementarity mechanism by establishing small plots, approximately 1m2 in size, which are subject to the same environmental conditions. A range of biodiversity treatments are then applied, and the ecosystem function response of each plot is measured over several years (the longest running experiment being Cedar Creek, for approximately 30 years). This format is much the same as that alluded to by Darwin. For example previous experiments have varied the number of species (Gross et al., 2014) and their genetic diversity (Cadotte, 2013). The utilitarian argument for conserving biodiversity arising from these experiments — that destroying diversity imperils ecosystem functions on which humanity depends (Faith et al., 2010) — gathered pace with E.O. Wilson’s popularization of the term biodiversity (Wilson, 1988). Similarly, the momentum to support conservation initiatives generated by the Rio Earth Summit and the Kyoto Protocol, as well as attempts to quantify the increased rates of extinction driven by human activity [e.g. Vitousek et al. (1997); Ceballos et al. (2015)], have added political weight to the overarching B-EF argument. Despite a substantial volume of literature demonstrating experimental links between different measures of ecosystem functions and biological diversity [e.g. Hooper et al. (2005); Cardinale et al. (2012)], the B-EF concept faces a pivotal test: can the relationships from plot-scale, artificial experiments be generalised to broader continental scales relevant for conservation initiatives?
+
+\
+
+The empirical evidence for B-EF relationships has thus far proven equivocal, particularly across broad spatio-temporal scales. For example Chisholm et al. (2013) found that relationships between the productivity of forest plots and α-diversity can in fact be negative at spatial resolutions that are coarser than typical B-EF experiments (for example 1 hectare). Some authors have dismissed bivariate analyses of productivity and diversity as incapable of capturing the network of interactions needed to accurately characterise the ecological dynamics in complex systems [e.g. Grace et al. (2014); Grace et al. (2016)]. Similarly, it was recently argued that broad-scale analyses of B-EF relationships — such as regional or continental studies using observational biological data and interpolated environmental data — cannot sufficiently characterise the underlying mechanisms (Pasari et al., 2013). These are worthy criticisms, given the innate complexity of multi-scale ecological interactions. Nevertheless, if the complementarity principle is generally applicable in nature, then it should hold across scales. Furthermore, broad-scale ecological analyses must necessarily quantify variables at much coarser spatial resolutions than manipulated experiments (for example 1km2 vs 1m2), which may alter the observed statistical relationships (Openshaw, 1983). This is a somewhat mundane but important point, not only for this thesis, but for any broad-scale empirical analyses of the B-EF concept. 
+
+\
+
+It was recently proposed that ecologists should shift their focus from the α-dimension of biodiversity (biological richness) to the β-dimension (biological turnover), in order to find broad-scale, cause and effect links between ecosystem functions and biodiversity in natural environments (Pasari et al., 2013). This idea has intuitive appeal. It seems plausible that the spatial and temporal turnover of plants between locations within a region, and hence the turnover in their characteristics, would affect the magnitude and variability of ecosystem functions such as primary productivity, both at individual locations and across entire regions. This is because floristic turnover — in geographic and environmental space, and also through time — indirectly approximates spatio-temporal changes in the biophysical characteristics of the flora, which could influence spatio-temporal fluctuations in the photosynthetic flux of carbon (Figure 1.1). 
+
+\
+
+
+
+![](https://github.com/HMB3/Election_dashboards/blob/main/graphs/Noms_graph.png?raw=true)
+
+
+
 

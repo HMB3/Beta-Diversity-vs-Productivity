@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Macroecological relationships between primary productivity and ecological specialisation"
+author: "Hugh Burley"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---

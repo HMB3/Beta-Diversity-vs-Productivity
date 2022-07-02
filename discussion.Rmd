@@ -10,7 +10,7 @@ Nonetheless, contrary to these empirical findings, and counter to the expectatio
 
 \
 
-![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_1.1.png?raw=true)
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.1.png?raw=true)
 
 Figure 6.1. Summary of the key results for Chapter 3. Example of a random subsample of cells or “communities” (a), generated with the same methods as that described in Chapter 3, section 3.2 (approximately 1000 cells). These subsampled cells must contain more than 10 species, have more than 10 locations within a 10km radius, and a reasonable probability that α-diversity was well sampled (see section 3.2.2). Plots of GPP vs. β-diversity for one the continental generalised additive models from Chapter 3 (b), showing raw observations for one random subsample (blue points, n = 1000 across continental Australia). GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1), GPP CV is the ratio of the standard deviation in GPP to the mean.
 
@@ -27,3 +27,77 @@ These continental results may also have implications for predictions that biolog
 From a methodological perspective, the effect of the concurrent declines in rainfall, productivity, α-diversity and sampling intensity with increasing distance from the Australian coastline on these analyses must also be considered. Indeed the reliance on observational plant records in Chapter 3 has undoubtedly biased the results towards the wettest, most productive and most species rich areas (see Appendix 2, Figure 6.1). Although a seemingly mundane point, it is worth emphasising the need for more high quality plot data to be measured in the greatest possible range of ecosystems, both across Australia and around the world. Questions about broad-scale interrelationships between ecosystem functions, environmental conditions and measures of biological diversity and ecological specialisation cannot be answered decisively without more reliable, widespread knowledge about which plants occur in particular ecosystems. Unsurprisingly, this fundamental information is still lacking for the more remote regions of many continents such as Australia, making it difficult to evaluate the practical relevance of B-EF arguments for continental-scale conservation and management initiatives.
 
 \
+
+## Continental variation in species-level niche width 
+
+\
+
+As noted in Chapters 2 and 3, the range of environmental conditions across which a plant species is known to occur — its realised environmental niche width — may approximate how physiologically and ecologically specialised that species has become to current conditions. Chapter 4 tested the hypothesis that the realised environmental niche width of vascular plants was positively related to the niche median for 1771 plant species known to occur in the Wet Tropics. This analysis demonstrated that across all 1771 species, temperature niche width was weakly related to niche median (Figure 6.2 c). In contrast, rainfall and nitrogen niches were wider in wetter and more fertile areas, forming a positive curvilinear relationship between niche width and median (Figure 6.2 b. d). 
+
+\
+
+The lack of systematic variation in temperature niche width suggests that, although temperature is clearly important to plant physiology, its marginal effect is relatively constant across the continental gradient. This interpretation is consistent with the macroecological evidence that across Australia, temperature-related variables are generally less limiting for plant growth and reproduction than water-related variables [e.g. Donohue et al. (2014)]. Thus, it is plausible that a range of realised temperature niche widths are equally likely to occur at any point along the continental temperature gradient (Figure 6.2 c). Conversely, the systematic widening of realised rainfall and nitrogen niches across environmental space implies that available moisture and fertility were important for plants, and their effects on physiology were variable across continental gradients. Such an increasing relationship between niche width and median for both moisture and fertility seems logical in the Australian context (Figure 6.2 b, d). Water and nutrient availability are likely to gradually shift from being limiting to non-limiting factors affecting plant growth and reproduction as plants occupy wetter and more fertile environments.
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.2.png?raw=true)
+
+
+Figure 6.2. Summary of the key results for Chapter 4. The records of 1771 vascular plants known to occur in the Wet Tropics (a) used to analyse species environmental niches described in Chapter 4, section 4.2 (366,111 occurrences of 1771 species, plotted in blue). Plots of vascular plant species niche width vs. niche median (n = 1771) for the natural log of precipitation (b, originally mm), maximum temperature (c, °C), and the natural log of soil nitrogen (d, originally %). The continental niche width is defined as the middle 90% of environmental values for all records of each species across mainland Australia and Tasmania, and niche position is the median of environmental values for all records of each species. For each environmental gradient, the regression model is plotted in orange over species niches (blue points), with the explanatory power for each model shown in orange (deviance explained values for rainfall and nitrogen, and adjusted R2 values for temperature). 
+
+\
+
+These divergent patterns of variation in realised environmental niches necessarily reflect the biogeographic history of the diverse taxa that comprise the Wet Tropics flora. Interestingly, the subset of species in Chapter 4 which are known to originate in either Australia or South East Asia (457 out of the total 1771 species studied) have similar niche widths (see Appendix 3, Figure S3.7). Given that the biogeographic attribution of these taxa is an ongoing project, further analyses are required to test if the relationships between niches and functional traits differ based on how long each taxa has been persisting in Australian ecosystems.
+
+\
+
+The systematic widening of species realised niches in rainfall space, driven by biogeographic history, also has implications for testing community-level relationships between ecosystem functions and realised niche width discussed in Chapters 2, 3 and 5. Because species with wider rainfall niches primarily occur in wetter areas for the Wet Tropics flora — rather than a mix of niche widths occurring across the gradient, as for temperature niches — community level measures of niche width will also be wider in wetter areas. If the median realised niche width of all species comprising a community approximates the degree of ecological specialisation at that location, as argued in Chapters 2 and 3, direct relationships between community ecosystem function and rainfall niche width will then be more difficult to isolate from environmental effects than for the temperature dimension. Thus tests of relationships between ecosystem functions and niche width using these taxa should carefully control for variations in realised community niche width across environmental space. Importantly, these variations in realised niches would be lost if the ecological specialisation of each species was defined solely using geographic patterns of co-occurrence [e.g. Boulangeat et al. (2012); Vimal and Devictor (2015)], potentially leading to confounding of the relationships between ecosystem functions, ecological specialisation and environmental conditions.
+
+\
+
+
+## Bioregional primary productivity and community-level niche width 
+
+\ 
+
+The macroecological complementarity hypothesis states that locations with a greater degree of ecological specialisation should display higher magnitudes of ecosystem functions than locations with less specialisation. The analyses presented in Chapter 5 are the first empirical test of this hypothesis using measures of ecosystem function and ecological specialisation at broad spatio-temporal and biological scales in real ecosystems. Ecological specialisation was quantified as the median of the rainfall and temperature niche widths — across continental Australia — of all tree species occurring at 510 Wet Topics sites. These community level analyses demonstrated that site niche width can influence ecosystem functions at macroecological scales, even when removing the direct effect of site environment on primary productivity. Wet Tropics sites with more ecological specialists in temperature space had higher primary productivity, whereas sites with more ecological specialists in rainfall space had lower productivity (Figure 6.3). 
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.2.png?raw=true)
+
+Figure 6.3. Summary of the key results for Chapter 5. Scatterplots of site-level relationships (a) between gross primary productivity (GPP, gC m-2 month-1), rainfall niche width (RNW) and temperature niche width (TNW) for the 510 Wet Tropics sites used to generate pairwise variables. Bottom panels: plots of linear models for 500 subsamples of environmentally similar, unique site-pairs calculated from the drier 255 sites (42-138 mm of monthly rainfall), where pairwise differences in GPP are a function of pairwise differences in median site temperature niche width (b, °C) and median site rainfall niche width (c, mm). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. The allowable difference in predicted GPP between site-pairs, ΔGPP = 20, is based on a negative exponential model of site GPP as a function of rainfall. The allowable temperature difference between site-pairs is fixed at ΔT = 0.5°C.
+
+\
+
+The contrasting results found at the continental (Chapter 3) and bioregional scale (Chapter 5) do not conclusively refute or confirm the macroecological complementarity hypothesis. Rather, the uncertainty surrounding these patterns opens the door to further analyses. Importantly, realised niche width at either the species or community level is still only an indirect proxy of both physiological performance and ecological specialisation, because it does not differentiate between specialisation formed through adaptive, rather than stochastic evolutionary processes (Chase, 2010; Chase & Myers, 2011). Unfortunately it is impractical to expect such differentiation in spatially explicit datasets across macroecological scales. Nonetheless, further analyses could appreciably improve the proxy of specialisation by testing whether species’ realised niches are related to their physiological performance under current and future climates. It seems plausible that some ecological generalists — for example highly productive invasive plants (Levine & D'Antonio, 1999; Srivastava & Vellend, 2005) — could outperform specialists under certain conditions. The key point here is that empirical tests of B-EF theories often ignore circumstances where relationships between ecosystem functions and biodiversity could be either neutral, or indeed negative. 
+
+\
+
+Recent decades have seen a proliferation in the creation of phylogenies for an increasing proportion of global taxa, including vascular plants [e.g. Mishler et al. (2014); Nagalingum et al. (2015); Rosauer et al. (2015); Thornhill et al. (2015); Chase et al. (2016)]. Consequently, phylogenies are now incorporated into many B-EF analyses to help explain variation in ecosystem functions [e.g. Maherali and Klironomos (2007); Connolly et al. (2011); Cadotte (2013, 2015a); Thompson et al. (2015)]. Thus there is considerable scope for using measures such as phylogenetic turnover and endemism to approximate ecological specialisation [e.g. Laffan et al. (2016); Thornhill et al. (2016)]. However, a more biogeographically informative avenue could be to quantify the environmental niche widths of particular genes across continental scales. This could be achieved by combining plot data with observational records and species-level phylogenetic trees for the flora of diverse regions such as the Wet Tropics. Such analyses could potentially incorporate the influence of biogeographic history on ecosystem functions, which up to this point has largely been omitted from macroecological B-EF studies. 
+
+\
+
+This thesis has only briefly touched on the hypothesis that ecological specialisation could affect future ecosystem functions — the macroecological spatio-temporal compensation mechanism (outlined in Chapter 2, section 2.3). The results from Chapter 5 indicate that tests of this hypothesis could begin by quantifying relationships between the variability of ecosystem functions, the variability of environmental conditions and different measures of ecological specialisation under current conditions (including phylogenetic and functional measures of specialisation), and projecting these relationships under future climate scenarios. Furthermore, directional environmental changes such as land clearing — which predominantly affect the rarest taxa, and are linked to socioeconomic inequities within and between countries — should be incorporated into these models. Ultimately, determining whether certain ecosystem processes will be negatively or positively affected by ecological specialisation may be less useful than improving our understanding of how changes in community composition — for example spatio-temporal turnover in functional traits — influence ecosystem functions.
+
+\
+
+
+## Conclusions
+
+
+\
+
+This research illustrates that the nature of macroecological relationships between ecosystem functions and ecological specialisation depends on how the variables are quantified. Furthermore, it highlights how little is empirically known about fundamental ecological relationships at broad scales. Using taxonomic floristic turnover in geographic space to approximate ecological specialisation produced a neutral relationship with productivity across continental Australia (Chapter 3). By contrast, using community-level niche width to approximate ecological specialisation in the Australian Wet Tropics produced both negative and positive relationships with productivity for temperature and rainfall niches, respectively (Chapter 5). These contrasting relationships between productivity and specialisation at the bioregional scale likely reflect the evolution of species environmental niches in response to climatic variability across continental Australia.
+
+\
+
+A final point should be made about the ethical dimension of investigating relationships between ecosystem functions and biological diversity, however these concepts are defined, quantified and analysed. Such analyses may produce ambiguous results, and there may be no economic or otherwise utilitarian benefits to conserving biodiversity by any reasonable quantitative measure. Moreover, even if strong links between ecosystem functions and diversity can be demonstrated, they are unlikely to convince bureaucrats or politicians to increase conservation efforts, particularly where economic objectives entail environmental transformation and degradation. But regardless of the evidence for relationships between ecosystem functions and biological diversity, compelling philosophical, ethical and moral arguments can be made that humans have no right to extinguish even small components of the marvellous natural world of which we are all part, and to which we are all heirs.
+
+\
+\
+\
+
+
+
+

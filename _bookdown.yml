@@ -1,5 +1,5 @@
 book_filename: "Beta-Diversity-vs-Productivity"
-output_dir: docs
+output_dir: 'docs'
 delete_merged_file: true
 edit: https://github.com/HMB3/Beta-Diversity-vs-Productivity/edit/master/%s
 view: https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/%s

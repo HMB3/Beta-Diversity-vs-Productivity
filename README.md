@@ -3,7 +3,9 @@ A key debate in contemporary ecology concerns whether ecosystem functions such a
 
 ## THESIS CHAPTERS
 
-*This chapter was published as: (2016) Global Ecology and biogeography, 25, 1294-1307, https://doi.org/10.1111/geb.12487.*
+*This thesis was pusblished as : Macroecological relationships between primary productivity and ecological specialisation.*
+UNSW, School of BEES, March 2017
+https://doi.org/10.26190/unsworks/19897
 
 ### Floristic beta diversity vs. primary productivity
 

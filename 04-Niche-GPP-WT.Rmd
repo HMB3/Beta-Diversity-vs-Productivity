@@ -1,0 +1,96 @@
+# Bioregional primary productivity and community-level niche width 
+
+\
+
+## Abstract  
+
+\
+
+**Aim** A key debate in contemporary ecology is whether ecosystem functions are distinctly influenced by biological diversity, across broad scales. Although recent work has emphasised the importance of links between ecosystem functions and measures of ecological specialisation as proxies of biodiversity, few studies have empirically analysed net, macroecological relationships in diverse environments. We tested whether gross primary productivity (GPP) in the Australian Wet Tropics (WT) was distinctly related to community-level measures of the ecological specialisation of component tree species across environmental space, after accounting for environmental drivers. 
+
+\
+
+**Location** WT biogeographic region, Australia.  
+
+\
+
+**Methods** Using all geographically valid herbarium records for 948 WT tree species, we quantified realised environmental niche widths using continental surfaces for maximum temperature of the warmest period and total annual rainfall. The median realised niche width for all tree species occurring at 510 sites was used to approximate ecological specialisation within communities. To partial out the direct effects of abiotic environment on GPP, we applied a novel analysis based on the difference in GPP and the difference in median community realised niche width between site-pairs with similar environmental conditions. Linear models were then run on the difference in GPP between site-pairs (response) and the difference in environmental niche widths (predictor). 
+
+\
+
+**Results** For environmentally similar sites in drier areas, GPP was higher in sites comprising species with narrower temperature niches (average R2 = 0.087, average t-statistic = -3.45). Conversely, for environmentally similar sites in drier areas, GPP was lower in sites comprising species with narrower rainfall niches (average R2 = 0.171, average T-statistic = 5.06).  
+
+\
+
+**Main conclusions** Wet Tropics sites with more thermal specialists had higher productivity, whereas sites with more moisture specialists had lower productivity. These mixed findings suggest that physiological specialisation across environmental space can influence primary productivity at broad scales, but in inconsistent ways.
+
+\
+
+## Methods 
+
+\
+
+The notion that the ecosystem functions at a location — for example primary productivity — could be influenced not only by the environment, but also by the diversity of the biota itself, goes back to at least the writings of Darwin, and probably much earlier. Here we conduct a novel empirical test of the macroecological complementarity hypothesis. For pairs of Wet Tropics sites, we assess whether sites comprising species with collectively narrower niches – those that have a greater degree of ecological specialisation – are more productive, after removing the influence of site environment. We use gross primary productivity (GPP) as a measure of ecosystem functioning. GPP is defined as the photosynthetic flux of carbon between vegetation and the atmosphere (Monteith, 1972; Donohue et al., 2014). We predict that pairwise GPP will be negatively linearly related to pairwise niche width (Figure 5.1).
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_5.1.png?raw=true)
+
+\
+
+### Wet Tropics datasets
+
+Our study region encompasses the Wet Tropics bioregion of Australia (Thackway & Cresswell, 1995) and the surrounding area within a 100 km buffer [approximately 
+113,003 km2, with the extent top: 14° 35' 51.746" S, left: 143° 48' 12.463" E, bottom: 20° 27' 55.175" S, right: 147° 35' 0.561" E, see Figure 5.2]. Species’ 
+realised continental environmental niche widths were estimated using average annual values from 1976-2005 of total annual rainfall (mm) and maximum temperature 
+of the warmest period (°C) at 250 m × 250 m spatial resolution (Figure 5.2).
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_5.2.png?raw=true)
+
+
+**Figure 5.2.** We tested the macroecological complementarity hypothesis by combing continental environmental surfaces with ecological plot surveys and observational plant records. Maps of average gross primary productivity (GPP) for the Wet Tropics (gC m-2 month-1 2001-2012 in brown, a, used to quantify site productivity), and for eastern Australia. Maps of total monthly rainfall for the Wet Tropics (mm month-1 2001-2012 in blue, b, used to quantify site rainfall), and of annual rainfall across continental Australia (mm 1976-2005, used to quantify median site rainfall niche width). Maps of mean monthly daily maximum temperature for the Wet Tropics (°C 2001-2012 in orange, c, used to quantify site temperature), and of the maximum temperature of the warmest period across continental Australia (°C 1976-2005, used to quantify median site temperature niche width). Histograms of environmental values for the Wet Tropics are shown below each surface. The top row of histograms are for the whole Wet Tropics study region, and the bottom row are for only the 510 WT sites (d). The niche width of each tree species occurring at the sites was defined as the middle 90% of environmental values for all Australian records of that species [e.g. Ficus congesta, e, with the rain niche width in blue (RW) and temperature niche width in orange (TW)].
+
+\
+
+### Statistical analyses
+
+\
+
+We tested the macroecological complementarity hypothesis by quantifying the relationship between the difference in GPP for pairs of Wet Tropics sites, and the difference in community-level summaries of species rainfall and temperature niche width (Figure 5.1 , for site-level relationships, see Appendix 4, Table S4.1, Table S4.2 and Table S4.3).
+To determine the variable rainfall limit, we modelled site GPP as a negative exponential function of site rainfall — a positively monotonically increasing non-linear regression (equation )
+
+
+
+
+
+\ 
+
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_4.3.png?raw=true)
+
+**Figure 4.3**. Visualisation of the randomisation procedure for testing relationships between realised environmental niches and functional traits. Starting with all spatially valid species geographic records (a) within the WT environmental bounds, we allocated each record into 50 km × 50 km blocks across continental Australia, including Tasmania (b). We then randomly shuffled the identity of each record within the same 50 km × 50 km block in which it occurred (c). Finally, we re-estimated the realised niche width and niche median of all species, and then re-ran the regressions (GAMs and linear models) using these randomised data (d). The pseudo P-values for these randomisations were considered significant if the observed coefficient (red line) was in the upper, lower or outer 5% of random coefficients (shaded blue areas of the histogram) for one-tail high, one-tail low or two tailed tests, respectively. 
+
+\
+
+
+## Results
+
+\
+
+Realised temperature niche width was moderately, positively and linearly correlated with temperature niche median for all vascular plant species occurring within the Wet Tropics environmental bounds used here. Overall, niche median was more strongly related to leaf area than it was to maximum plant height, with the strongest relationship for the trait analyses being positive linear correlations between rainfall median and leaf area (Table 4.2, adjusted R2 = 0.162).
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_4.4.png?raw=true)
+
+Figure 4.4. Plots of species realised niche width vs. niche median for the Wet Tropics vascular flora, for the natural log of precipitation (originally mm), maximum temperature (°C), and the natural log of soil nitrogen (originally %). For each environmental gradient, the regression model is plotted in orange over species niches (blue points), with the explanatory power for each model shown in orange (deviance explained values for rainfall and nitrogen, and adjusted R2 values for temperature). The left column of panels (a, c, e) show all species analysed (n = 1771). The right column of panels (b, d, f) show all tree species analysed (n = 647).
+
+\
+
+For vascular plants occurring within the Australian Wet Tropics, we found strong evidence that wide or narrow temperature niches can occur at any point across the continental temperature gradient. The evidence that species occupying wetter environments have broader niches and larger leaves requires further investigation, particularly focusing on the role of adaptation and competition in influencing continental environmental distributions in the Australian context. 
+
+
+\
+

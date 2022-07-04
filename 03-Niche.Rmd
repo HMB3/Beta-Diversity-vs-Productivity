@@ -1,0 +1,85 @@
+# Continental variation in species-level niche width 
+
+\
+
+## Abstract  
+
+\
+
+**Aim** The range of environmental conditions that species are known to occupy — their realised environmental niche widths — are important indicators of physiological specialisation and biogeographic history. Here we test whether the realised continental environmental niches of vascular plants occurring in the Australian Wet Tropics (WT) vary across important environmental gradients, and link the results to biogeographic interpretations of Australia’s flora. 
+
+\
+
+**Location** Continental Australia. 
+
+\
+
+**Methods** We obtained herbarium records spanning continental Australia for 4292 vascular plant species that have been recorded within the WT. For each species we calculated the realised continental niche width (95th -5th percentile) and niche median for annual rainfall (mm), maximum temperature (°C) and soil nitrogen (%) using interpolated surfaces. Public-access databases were used to quantify maximum recorded plant height (m) and estimate leaf area (cm2). We then tested whether niche width was related to niche median and traits, using spatially constrained randomisations of linear and generalised additive models for all species (n = 1771) and tree species only (n = 647). Finally, we used a structural equation model to test whether the combined elliptical niche volume of trees (volume = π/6 × rainfall niche width × temperature niche width × nitrogen niche width) was related to leaf area and height, while controlling for the effect of rainfall, temperature and nitrogen niche median. 
+
+\
+
+**Results** For all species and tree species only, realised temperature niche width was independent of niche median (adjusted R2 = 0.085). However, realised rainfall and nitrogen niche widths were wider in wetter and more fertile environments (deviance explained = 0.387 and 0.513, respectively). Similarly, tree species with niche widths centred in wetter environments had larger leaves (adjusted R2 = 0.162). A moderate amount of variation in niche volume was explained by realised niche medians and traits (R2 = 0.123).  
+
+\
+
+**Main conclusions** The WT flora is not strongly specialised across the continental temperature gradient, while displaying greater specialisation towards drier and less fertile conditions. Although these patterns likely reflect the biogeographic history of the WT flora, further studies are required to investigate the role of adaptation and competition in influencing continental environmental distributions.
+
+\
+
+## Methods 
+
+\
+
+### Wet Tropics datasets
+
+Our study region encompasses the Wet Tropics bioregion of Australia (Thackway & Cresswell, 1995) and the surrounding area within a 100 km buffer [approximately 
+113,003 km2, with the extent top: 14° 35' 51.746" S, left: 143° 48' 12.463" E, bottom: 20° 27' 55.175" S, right: 147° 35' 0.561" E, see Figure 5.2]. Species’ 
+realised continental environmental niche widths were estimated using average annual values from 1976-2005 of total annual rainfall (mm) and maximum temperature 
+of the warmest period (°C) at 250 m × 250 m spatial resolution.
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_4.2.png?raw=true)
+
+
+**Figure 4.2.** Maps of the biological and environmental data. The records of the vascular plants (a) used to analyse species environmental niches (366,111 geographic records of 1771 species plotted in blue. This is the subset of all 4292 species with niche medians within the Wet Tropics environmental bounds, as defined in section 4.2.2. The broader Wet Tropics study region is shown in red). The records for the tree species (b) with measured maximum height and leaf dimensions (98,337 geographic records of 647 species plotted in blue. This is the subset of all 1351 tree species with niche medians within the Wet Tropics environmental bounds, as defined in section 4.2.2). As an example, the geographic points for the purple Laurel tree, Cryptocarya hypospodia, are plotted in pink over the major Australian ecoregions (c): desert/arid (grey), montane (cyan), Mediterranean (tan), Savanna (khaki), tropical forest (dark green), temperate forest (light green, shapefile of global ecoregions: http://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world). 250 m × 250 m surfaces for annual rainfall (blue, d), maximum temperature of the warmest period (orange, e) and mass fraction of total soil nitrogen in the top 30cm (purple, f, in panels d-f the bioregions has been enlarged). Boxplots for the environmental values of all records of Cryptocarya hypospodia [g, using points on map c) showing the rain (RW), temperature (TW) and nitrogen niche width (NW, coloured dashes on y-axes)]. In panels d-f, the bioregion is enlarged, and the legends below the Australian maps are scaled to the entire continent, whereas the legends on the right of the Wet Tropics refer to the Wet Tropics only.
+
+\
+
+### Statistical analyses
+
+\
+
+To test whether realised niche width was positively related to niche median, we ran separate bivariate regressions between realised niche width (response) and niche median (predictor) across each environmental gradient. To test whether realised niche width was positively related to niche median, we ran separate bivariate regressions between realised niche width (response) and niche median (predictor) across each environmental gradient. To test whether a combined measure of niche width, niche volume, was positively related to functional traits in a multivariate framework incorporating interactions, we fitted a structural equation model to data for all tree species (n = 647). 
+Realised niche volume (Nv) was calculated for each species by assuming the scaled niches across each environmental gradient to be elliptical, and using the formula of a three dimensional ellipsoid.   
+
+
+\ 
+
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_4.3.png?raw=true)
+
+**Figure 4.3**. Visualisation of the randomisation procedure for testing relationships between realised environmental niches and functional traits. Starting with all spatially valid species geographic records (a) within the WT environmental bounds, we allocated each record into 50 km × 50 km blocks across continental Australia, including Tasmania (b). We then randomly shuffled the identity of each record within the same 50 km × 50 km block in which it occurred (c). Finally, we re-estimated the realised niche width and niche median of all species, and then re-ran the regressions (GAMs and linear models) using these randomised data (d). The pseudo P-values for these randomisations were considered significant if the observed coefficient (red line) was in the upper, lower or outer 5% of random coefficients (shaded blue areas of the histogram) for one-tail high, one-tail low or two tailed tests, respectively. 
+
+\
+
+
+## Results
+
+\
+
+Realised temperature niche width was moderately, positively and linearly correlated with temperature niche median for all vascular plant species occurring within the Wet Tropics environmental bounds used here. Overall, niche median was more strongly related to leaf area than it was to maximum plant height, with the strongest relationship for the trait analyses being positive linear correlations between rainfall median and leaf area (Table 4.2, adjusted R2 = 0.162).
+
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_4.4.png?raw=true)
+
+Figure 4.4. Plots of species realised niche width vs. niche median for the Wet Tropics vascular flora, for the natural log of precipitation (originally mm), maximum temperature (°C), and the natural log of soil nitrogen (originally %). For each environmental gradient, the regression model is plotted in orange over species niches (blue points), with the explanatory power for each model shown in orange (deviance explained values for rainfall and nitrogen, and adjusted R2 values for temperature). The left column of panels (a, c, e) show all species analysed (n = 1771). The right column of panels (b, d, f) show all tree species analysed (n = 647).
+
+\
+
+For vascular plants occurring within the Australian Wet Tropics, we found strong evidence that wide or narrow temperature niches can occur at any point across the continental temperature gradient. The evidence that species occupying wetter environments have broader niches and larger leaves requires further investigation, particularly focusing on the role of adaptation and competition in influencing continental environmental distributions in the Australian context. 
+
+
+\
+

@@ -88,19 +88,24 @@ For site-pairs calculated from all original 510 sites — spanning the entire ra
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_5.4.png?raw=true)
 
-Figure 5.4. Plots of linear models for 500 subsamples of environmentally similar, unique site-pairs, where pairwise differences in gross primary productivity (GPP, gC m-2 month-1 2001-2012) are a function of pairwise differences in median site temperature niche width (°C). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. Panel a) plots relationships for site-pairs derived from all original 510 sites (42-516 mm). Panel c) plots relationships for site-pairs derived from only the 255 driest sites (42-138 mm). Panel e) plots relationships for site-pairs derived from only the 255 wettest sites (139-516 mm). The right column of panels (b, d, and f) plot histograms of 1000 bootstrapped t-statistics from one subsample of each model under the null hypothesis in pink, with the average t-statistic from all 500 subsamples plotted in green.
+**Figure 5.4.** Plots of linear models for 500 subsamples of environmentally similar, unique site-pairs, where pairwise differences in gross primary productivity (GPP, gC m-2 month-1 2001-2012) are a function of pairwise differences in median site temperature niche width (°C). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. Panel a) plots relationships for site-pairs derived from all original 510 sites (42-516 mm). Panel c) plots relationships for site-pairs derived from only the 255 driest sites (42-138 mm). Panel e) plots relationships for site-pairs derived from only the 255 wettest sites (139-516 mm). The right column of panels (b, d, and f) plot histograms of 1000 bootstrapped t-statistics from one subsample of each model under the null hypothesis in pink, with the average t-statistic from all 500 subsamples plotted in green.
 
 \
 
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_5.5.png?raw=true)
 
-Figure 5.5. Plots of the linear models for 500 subsamples of environmentally similar, unique site-pairs, where pairwise differences in gross primary productivity (GPP, gC m-2 month-1 2001-2012) are a function of pairwise differences in median site rainfall niche width (mm). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. Panel a) plots relationships for site-pairs derived from all original 510 sites (42-516 mm). Panel c) plots relationships for site-pairs derived from only the 255 driest sites (42-138 mm). Panel e) plots relationships for site-pairs derived from only the 255 wettest sites (139-516 mm). The right column of panels (b, d, f) plot histograms of 1000 bootstrapped t-statistics from one subsample of each model under the null hypothesis (in grey), with the average t-statistic from all 500 subsamples plotted in green.
+**Figure 5.5** Plots of the linear models for 500 subsamples of environmentally similar, unique site-pairs, where pairwise differences in gross primary productivity (GPP, gC m-2 month-1 2001-2012) are a function of pairwise differences in median site rainfall niche width (mm). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. Panel a) plots relationships for site-pairs derived from all original 510 sites (42-516 mm). Panel c) plots relationships for site-pairs derived from only the 255 driest sites (42-138 mm). Panel e) plots relationships for site-pairs derived from only the 255 wettest sites (139-516 mm). The right column of panels (b, d, f) plot histograms of 1000 bootstrapped t-statistics from one subsample of each model under the null hypothesis (in grey), with the average t-statistic from all 500 subsamples plotted in green.
+
+\
+
+## Conclusions
 
 \
 
 We demonstrated that primary productivity was related to community-level measures of ecological specialisation at macroecological scales in natural environments. Wet Tropics sites with more ecological specialists in temperature space had higher productivity, whereas sites with more ecological specialists in rainfall space had lower productivity. Future analyses could focus on the degree to which species’ physiological performance is related to their realised niche width under current and future climates, to directly test the physiological basis for the hypothesis that ecological specialisation increases productivity.
 
 
+\
 \
 

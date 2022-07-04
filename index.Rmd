@@ -1,7 +1,7 @@
 --- 
 title: "Macroecological relationships between primary productivity and ecological specialisation"
 author: "Hugh Burley"
-date: "`r Sys.Date()`"
+date: "March 2017"
 site: bookdown::bookdown_site
 ---
 
@@ -9,14 +9,6 @@ site: bookdown::bookdown_site
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/plants_eg.png?raw=true)
 
-# PhD thesis School of BEES
-# University of New South Wales
-
-\
-
-# March 2017
-
-\
 
 # Abstract
 

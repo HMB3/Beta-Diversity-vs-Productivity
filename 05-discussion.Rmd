@@ -12,7 +12,7 @@ Nonetheless, contrary to these empirical findings, and counter to the expectatio
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.1.png?raw=true)
 
-Figure 6.1. Summary of the key results for Chapter 3. Example of a random subsample of cells or “communities” (a), generated with the same methods as that described in Chapter 3, section 3.2 (approximately 1000 cells). These subsampled cells must contain more than 10 species, have more than 10 locations within a 10km radius, and a reasonable probability that α-diversity was well sampled (see section 3.2.2). Plots of GPP vs. β-diversity for one the continental generalised additive models from Chapter 3 (b), showing raw observations for one random subsample (blue points, n = 1000 across continental Australia). GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1), GPP CV is the ratio of the standard deviation in GPP to the mean.
+**Figure 6.1.** Summary of the key results for Chapter 3. Example of a random subsample of cells or “communities” (a), generated with the same methods as that described in Chapter 3, section 3.2 (approximately 1000 cells). These subsampled cells must contain more than 10 species, have more than 10 locations within a 10km radius, and a reasonable probability that α-diversity was well sampled (see section 3.2.2). Plots of GPP vs. β-diversity for one the continental generalised additive models from Chapter 3 (b), showing raw observations for one random subsample (blue points, n = 1000 across continental Australia). GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1), GPP CV is the ratio of the standard deviation in GPP to the mean.
 
 \
 
@@ -43,7 +43,7 @@ The lack of systematic variation in temperature niche width suggests that, altho
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.2.png?raw=true)
 
 
-Figure 6.2. Summary of the key results for Chapter 4. The records of 1771 vascular plants known to occur in the Wet Tropics (a) used to analyse species environmental niches described in Chapter 4, section 4.2 (366,111 occurrences of 1771 species, plotted in blue). Plots of vascular plant species niche width vs. niche median (n = 1771) for the natural log of precipitation (b, originally mm), maximum temperature (c, °C), and the natural log of soil nitrogen (d, originally %). The continental niche width is defined as the middle 90% of environmental values for all records of each species across mainland Australia and Tasmania, and niche position is the median of environmental values for all records of each species. For each environmental gradient, the regression model is plotted in orange over species niches (blue points), with the explanatory power for each model shown in orange (deviance explained values for rainfall and nitrogen, and adjusted R2 values for temperature). 
+**Figure 6.2.** Summary of the key results for Chapter 4. The records of 1771 vascular plants known to occur in the Wet Tropics (a) used to analyse species environmental niches described in Chapter 4, section 4.2 (366,111 occurrences of 1771 species, plotted in blue). Plots of vascular plant species niche width vs. niche median (n = 1771) for the natural log of precipitation (b, originally mm), maximum temperature (c, °C), and the natural log of soil nitrogen (d, originally %). The continental niche width is defined as the middle 90% of environmental values for all records of each species across mainland Australia and Tasmania, and niche position is the median of environmental values for all records of each species. For each environmental gradient, the regression model is plotted in orange over species niches (blue points), with the explanatory power for each model shown in orange (deviance explained values for rainfall and nitrogen, and adjusted R2 values for temperature). 
 
 \
 
@@ -66,7 +66,7 @@ The macroecological complementarity hypothesis states that locations with a grea
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_6.2.png?raw=true)
 
-Figure 6.3. Summary of the key results for Chapter 5. Scatterplots of site-level relationships (a) between gross primary productivity (GPP, gC m-2 month-1), rainfall niche width (RNW) and temperature niche width (TNW) for the 510 Wet Tropics sites used to generate pairwise variables. Bottom panels: plots of linear models for 500 subsamples of environmentally similar, unique site-pairs calculated from the drier 255 sites (42-138 mm of monthly rainfall), where pairwise differences in GPP are a function of pairwise differences in median site temperature niche width (b, °C) and median site rainfall niche width (c, mm). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. The allowable difference in predicted GPP between site-pairs, ΔGPP = 20, is based on a negative exponential model of site GPP as a function of rainfall. The allowable temperature difference between site-pairs is fixed at ΔT = 0.5°C.
+**Figure 6.3.** Summary of the key results for Chapter 5. Scatterplots of site-level relationships (a) between gross primary productivity (GPP, gC m-2 month-1), rainfall niche width (RNW) and temperature niche width (TNW) for the 510 Wet Tropics sites used to generate pairwise variables. Bottom panels: plots of linear models for 500 subsamples of environmentally similar, unique site-pairs calculated from the drier 255 sites (42-138 mm of monthly rainfall), where pairwise differences in GPP are a function of pairwise differences in median site temperature niche width (b, °C) and median site rainfall niche width (c, mm). The slopes of all 500 linear models are plotted in grey, and their mean slope is plotted in orange. The allowable difference in predicted GPP between site-pairs, ΔGPP = 20, is based on a negative exponential model of site GPP as a function of rainfall. The allowable temperature difference between site-pairs is fixed at ΔT = 0.5°C.
 
 \
 
@@ -97,7 +97,4 @@ A final point should be made about the ethical dimension of investigating relati
 \
 \
 \
-
-
-
 

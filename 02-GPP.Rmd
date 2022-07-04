@@ -10,7 +10,7 @@
 
 \
 
-Location Continental Australia. 
+**Location** Continental Australia. 
 
 \
 
@@ -103,7 +103,17 @@ The weakest individual predictor of continental GPP mean or GPP CV was β-divers
 
 ![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/fig_3.4.png?raw=true)
 
-Figure 3.4. Plots of one of the continental generalised additive models, showing raw observations for one random subsample (blue points). Predicted gross primary productivity values (GPP and GPP CV) for models using only that predictor [e.g. GPP = f (rain) for top row of panel] are plotted in green. Predicted GPP values for models holding all other variables at their mean [e.g. GPP = f (rain + mean temp + mean α + mean β) for top row of panel] are also plotted in orange. GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1). GPP CV is the ratio of the standard deviation in GPP to the mean.
+**Figure 3.4.** Plots of one of the continental generalised additive models, showing raw observations for one random subsample (blue points). Predicted gross primary productivity values (GPP and GPP CV) for models using only that predictor [e.g. GPP = f (rain) for top row of panel] are plotted in green. Predicted GPP values for models holding all other variables at their mean [e.g. GPP = f (rain + mean temp + mean α + mean β) for top row of panel] are also plotted in orange. GPP is the mean monthly photosynthetic flux of carbon (gC m-2 month-1, January 2001-December 2012, see section 3.2.1). GPP CV is the ratio of the standard deviation in GPP to the mean.
 
+\
+
+
+## Conclusions
+
+\
+
+The analysis of broad-scale relationships between productivity and biodiversity is not new. However, empirical, continental-scale tests of relationships between ecosystem functions as response variables, and biological richness and heterogeneity as explanatory variables, are in their infancy. We found that adding taxonomic α- and β-diversity to simple models of the magnitude and variability of continental primary productivity contributed no meaningful explanatory power, with a striking lack of support for longstanding assumptions in the literature. It is reasonable to ask whether these results question the logic of using simple measures of biological diversity – however they are quantified – as explanatory variables for broad-scale productivity measures. Indeed our results may indicate that both measures of productivity and simple diversity indices are more appropriately placed on the y-axis, responding to the same environmental conditions (Lavers & Field, 2006), at least across such broad spatio-temporal and biological scales. Nevertheless, more targeted measures of ecological specialisation – such as site-level environmental niche widths – may potentially have distinct relationships with certain ecosystem functions, particularly under environmental change scenarios.
+
+\
 \
 

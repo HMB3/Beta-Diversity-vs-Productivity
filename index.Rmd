@@ -5,10 +5,22 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Abstract
+\
+
+![](https://github.com/HMB3/Beta-Diversity-vs-Productivity/blob/master/docs/plants_eg.png?raw=true)
+
+# PhD thesis School of BEES
+# University of New South Wales
 
 \
 
+# March 2017
+
+\
+
+# Abstract
+
+\
 
 A key debate in contemporary ecology concerns whether ecosystem functions such as productivity are distinctly influenced by biological diversity in natural environments. Recent work has emphasised the importance of links between ecosystem functions and measures of ecological specialisation as proxies of biodiversity. However, few studies have analysed these relationships at broad spatio-temporal scales. This research tests the empirical relationship between primary productivity and ecological specialisation at continental and bioregional scales, using two proxies of specialisation: taxonomic β-diversity and site-level environmental niche width. It also examines how the environmental niches of species vary across continental environmental gradients. 
 
